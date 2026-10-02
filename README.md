@@ -82,11 +82,11 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 ### 🗄️ Data
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
 <br />
 
-`MySQL` · `SQL`
+`MySQL` · `PostgreSQL` · `SQL`
 
 ### 🛠️ Development Tools
 
@@ -106,7 +106,7 @@ I enjoy turning requirements into clean, practical applications and continuously
 | **Frontend** | HTML5 · CSS3 · React |
 | **Backend** | Java · Spring Boot · Spring MVC · REST APIs |
 | **Persistence** | Spring Data JPA · JDBC |
-| **Database** | MySQL · SQL |
+| **Database** | MySQL · PostgreSQL · SQL |
 | **Build / Version Control** | Maven · Git · GitHub |
 | **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
