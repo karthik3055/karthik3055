@@ -64,21 +64,21 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 <div align="center">
 
-### ☕ Backend & Java
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
-
 ### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
+### ☕ Backend & Java
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
+
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
-### 🐍 Programming & Tools
+### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,docker,gcp,python,git,github&theme=dark" />
 
 </div>
 
