@@ -66,19 +66,19 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
 ### ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 ### ☕ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb&theme=dark" />
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=maven,docker,gcp,git,github&theme=dark" />
 
 </div>
 
