@@ -64,43 +64,25 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 <div align="center">
 
-### ☕ Java Ecosystem
+### ☕ Backend & Java
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
-
-<br /><br />
-
-<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" />
-
-<br /><br />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
 
 ### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<br /><br />
-
-### 🐍 Programming
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br /><br />
-
-### 🗄️ Data
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-<br /><br />
+### 🐍 Programming & Tools
 
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 
 </div>
 
-<br />
-
-| Area | Skills |
+| Additional Skills | |
 | :--- | :--- |
 | **Backend** | REST APIs · JDBC · Spring Data JPA |
 | **Core Java** | OOP · Collections · Exception Handling |
