@@ -21,7 +21,7 @@
 <br /><br />
 
 <img src="https://img.shields.io/badge/B.E.%20ECE-8.3%2F10-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tamil%20Nadu-111827?style=for-the-badge&labelColor=312E81" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tiruttani%2C%20Tamil%20Nadu-111827?style=for-the-badge&labelColor=312E81" />
 
 <br /><br />
 
