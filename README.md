@@ -286,7 +286,9 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D4AFF,35:35206B,65:1A1230,100:090712&height=130&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D4AFF,35:35206B,65:1A1230,100:090712&height=100&section=footer&animation=fadeIn" width="94%" />
+
+<br />
 
 <sub>Java • Spring Boot • React • SQL • Continuous Learning</sub>
 
