@@ -70,7 +70,7 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 ### ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
 
 ### ☕ Backend & Databases
 
