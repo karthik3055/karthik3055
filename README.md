@@ -62,32 +62,12 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 ## 🧠 Technical Stack
 
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
-
-### ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-### ☕ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb&theme=dark" />
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=maven,docker,gcp,git,github&theme=dark" />
-
-</div>
-
-| Additional Skills | |
+| Category | Technologies |
 | :--- | :--- |
-| **Backend** | REST APIs · JDBC · Spring Data JPA |
-| **Core Java** | OOP · Collections · Exception Handling |
-| **AI** | Generative AI |
-| **Soft Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
+| **Programming Languages** | Java · Python · JavaScript |
+| **Frontend** | HTML · CSS · React · Node.js |
+| **Backend & Databases** | Spring · Hibernate · MySQL · MongoDB |
+| **Tools & Technologies** | Maven · Docker · Google Cloud · Git · GitHub |
 
 ---
 
