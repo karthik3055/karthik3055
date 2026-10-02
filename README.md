@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,25:17102F,50:241047,75:35206B,100:5B3AA4&height=220&section=header&text=KARTHIKEYAN%20M&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&fontFamily=Montserrat" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,25:17102F,50:241047,75:35206B,100:5B3AA4&height=220&section=header&text=KARTHIKEYAN%20M&fontSize=48&fontColor=FFFFFF&fontAlig[...]
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+in+Progress;Full+Stack+%7C+Generative+AI;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+in+Prog[...]
 </a>
 
 <br />
@@ -36,15 +36,15 @@
 
 <div align="center">
 
-### `JAVA` &nbsp;•&nbsp; `FULL STACK` &nbsp;•&nbsp; `CLOUD` &nbsp;•&nbsp; `GENERATIVE AI`
+### `JAVA` &nbsp;•&nbsp; `FULL STACK` &nbsp;•&nbsp; `GENERATIVE AI`
 
 </div>
 
 ## 👋 About Me
 
-I am a **B.E. Electronics and Communication Engineering graduate** building my career toward **Java Full Stack Development**, with internship and project experience across Java, SQL, web development, cloud computing, and Generative AI.
+I am a **B.E. Electronics and Communication Engineering graduate** building my career toward **Java Full Stack Development**, with internship and project experience across Java, SQL, web development, and Generative AI.
 
-I am currently strengthening my skills in **Java Full Stack Development**, with a focus on Java, Spring Boot, React, REST APIs, SQL, cloud computing, and Generative AI.
+I am currently strengthening my skills in **Java Full Stack Development**, with a focus on Java, Spring Boot, React, REST APIs, SQL, and Generative AI.
 
 <table>
 <tr>
@@ -53,7 +53,6 @@ I am currently strengthening my skills in **Java Full Stack Development**, with 
 ### 🎯 Current Direction
 
 - ☕ Java Full Stack Development
-- ☁️ Cloud Computing
 - 🤖 Generative AI
 - 🗄️ SQL & Data Analysis
 
@@ -92,7 +91,7 @@ Learn → Build → Test → Automate → Observe
 
 <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
 
-### Database & Cloud
+### Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,gcp&theme=dark" />
 
@@ -107,8 +106,7 @@ Learn → Build → Test → Automate → Observe
 | **Java Frameworks** | Spring Boot · Spring MVC · Spring Data JPA |
 | **Backend** | REST APIs · JDBC · Java OOP · Collections · Exception Handling |
 | **Database** | MySQL · SQL |
-| **Build & Tools** | Maven · Git · GitHub |
-| **Cloud** | Google Cloud |
+| **Build & Tools** | Maven · Git · GitHub · Google Cloud |
 | **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
 ---
@@ -131,15 +129,15 @@ Learn → Build → Test → Automate → Observe
 <br />
 
 <details>
-<summary><b>Google Cloud Generative AI Intern — NASSCOM FutureSkills Prime</b> · Jul 2025 – Sep 2025</summary>
+<summary><b>Generative AI Training — NASSCOM FutureSkills Prime</b> · Jul 2025 – Sep 2025</summary>
 
 <br />
 
-- Completed practical training in **cloud computing and Generative AI**.
-- Explored **Google Cloud tools** and basic cloud deployment workflows.
-- Worked through **cloud and AI use cases** as part of the training.
+- Completed practical training in **Generative AI and related technologies**.
+- Explored **AI tools and frameworks** and their practical applications.
+- Worked through **real-world AI use cases** as part of the training program.
 
-**Exposure:** `Google Cloud` · `Generative AI` · `Cloud Computing` · `Deployment`
+**Exposure:** `Generative AI` · `AI Tools` · `Machine Learning Concepts` · `Practical AI Applications`
 
 </details>
 
@@ -148,25 +146,7 @@ Learn → Build → Test → Automate → Observe
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>01 · High-Availability Three-Tier Architecture on GKE</b></summary>
-
-<br />
-
-**Stack:** `Google Cloud`
-
-Built a three-tier web application with a focus on structured application deployment and availability.
-
-### Engineering Highlights
-
-- Worked with a **three-tier application architecture**.
-- Explored cloud deployment concepts using **Google Cloud**.
-- Focused on separating application layers for maintainability and scalability.
-</details>
-
-<br />
-
-<details>
-<summary><b>02 · Job Matching Portal</b></summary>
+<summary><b>01 · Job Matching Portal</b></summary>
 
 <br />
 
@@ -183,7 +163,7 @@ Developed a skill-based portal matching candidates with relevant job opportuniti
 <br />
 
 <details>
-<summary><b>03 · Sales Forecasting & Time Series Analysis</b></summary>
+<summary><b>02 · Sales Forecasting & Time Series Analysis</b></summary>
 
 <br />
 
@@ -250,7 +230,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik3055&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik3055&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_colo[...]
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik3055&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB&langs_count=8" />
 
@@ -260,7 +240,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik3055&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="720" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik3055&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreak[...]
 
 </div>
 
@@ -305,7 +285,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <br /><br />
 
-**Open to entry-level opportunities in Java, full-stack development, cloud, and software engineering.**
+**Open to entry-level opportunities in Java, full-stack development, and software engineering.**
 
 </div>
 
@@ -315,6 +295,6 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3AA4,25:35206B,50:241047,75:17102F,100:0D0B1A&height=130&section=footer&animation=twinkling" width="100%" />
 
-<sub>Built with Java • Full Stack • Cloud • Continuous Learning</sub>
+<sub>Built with Java • Full Stack • Continuous Learning</sub>
 
 </div>
