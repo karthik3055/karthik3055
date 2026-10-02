@@ -87,7 +87,7 @@ I enjoy turning requirements into clean, practical applications and continuously
 | Java Full Stack Area | Skills |
 | :--- | :--- |
 | **Programming** | Java · Python · JavaScript · OOP · Collections · Exception Handling |
-| **Frontend** | HTML5 · CSS3 · Bootstrap . JavaScript . React · |
+| **Frontend** | HTML5 · CSS3 · Bootstrap . JavaScript . React  |
 | **Backend** | Spring Boot · Spring MVC · Spring Data JPA · Hibernate · JDBC · REST APIs |
 | **Databases** | MySQL · MongoDB · SQL · Database Design |
 | **Development** | Maven · Git · GitHub · Debugging · Unit Testing |
