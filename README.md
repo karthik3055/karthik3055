@@ -80,6 +80,14 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 `HTML5` · `CSS3` · `JavaScript` · `React`
 
+### 🐍 Programming
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br />
+
+`Python`
+
 ### 🗄️ Data
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
@@ -104,9 +112,11 @@ I enjoy turning requirements into clean, practical applications and continuously
 | :--- | :--- |
 | **Languages** | Java · Python · JavaScript |
 | **Frontend** | HTML5 · CSS3 · React |
-| **Backend** | Java · Spring Boot · Spring MVC · REST APIs |
+| **Backend** | Spring Boot · Spring MVC · REST APIs |
 | **Persistence** | Spring Data JPA · JDBC |
 | **Database** | MySQL · PostgreSQL · SQL |
+| **Core Java** | OOP · Collections · Exception Handling |
+| **AI** | Generative AI |
 | **Build / Version Control** | Maven · Git · GitHub |
 | **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
@@ -274,8 +284,8 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/karthik3055"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" width="350" /></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/karthik5055"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" width="350" /></a></td>
+<td align="center" width="50%"><a href="https://github.com/karthik3055"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" width="350" /></a></td>
+<td align="center" width="50%"><a href="https://www.linkedin.com/in/karthik5055"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" width="350" /></a></td>
 </tr>
 </table>
 
