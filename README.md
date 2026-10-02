@@ -21,7 +21,6 @@
 <br /><br />
 
 <img src="https://img.shields.io/badge/B.E.%20ECE-8.3%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Java%20Full%20Stack-Focused-5B21B6?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tamil%20Nadu-111827?style=for-the-badge&labelColor=312E81" />
 
 <br /><br />
@@ -81,13 +80,13 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 `HTML5` · `CSS3` · `JavaScript` · `React`
 
-### 🗄️ Data & Cloud
+### 🗄️ Data
 
-<img src="https://skillicons.dev/icons?i=mysql,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 <br />
 
-`MySQL` · `SQL` · `Google Cloud` · `GKE`
+`MySQL` · `SQL`
 
 ### 🛠️ Development Tools
 
@@ -108,7 +107,6 @@ I enjoy turning requirements into clean, practical applications and continuously
 | **Backend** | Java · Spring Boot · Spring MVC · REST APIs |
 | **Persistence** | Spring Data JPA · JDBC |
 | **Database** | MySQL · SQL |
-| **Cloud** | Google Cloud · GKE |
 | **Build / Version Control** | Maven · Git · GitHub |
 | **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
@@ -148,26 +146,6 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 ## 🚀 Featured Projects
 
-### 01 · High-Availability Three-Tier Architecture
-
-<details open>
-<summary><b>Google Cloud Deployment Project</b></summary>
-
-<br />
-
-**Technology:** `Google Cloud`
-
-Built a three-tier web application with a focus on structured application deployment and availability.
-
-**Highlights**
-
-- Worked with a **three-tier application architecture**.
-- Explored cloud deployment concepts using **Google Cloud**.
-- Focused on separating application layers for **maintainability and scalability**.
-
-</details>
-
-<br />
 
 ### 02 · Job Matching Portal
 
@@ -282,7 +260,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-`Java Full Stack` · `Spring Boot` · `React` · `REST APIs` · `SQL` · `Google Cloud` · `Generative AI`
+`Java Full Stack` · `Spring Boot` · `React` · `REST APIs` · `SQL` · `Generative AI`
 
 </div>
 
@@ -290,7 +268,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-**Open to entry-level opportunities in Java, full-stack development, software engineering, and cloud-focused roles.**
+**Open to entry-level opportunities in Java, full-stack development, and software engineering roles.**
 
 <br />
 
@@ -310,6 +288,6 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D4AFF,35:35206B,65:1A1230,100:090712&height=130&section=footer&animation=fadeIn" width="100%" />
 
-<sub>Java • Spring Boot • React • SQL • Cloud • Continuous Learning</sub>
+<sub>Java • Spring Boot • React • SQL • Continuous Learning</sub>
 
 </div>
