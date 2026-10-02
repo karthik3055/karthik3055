@@ -219,9 +219,9 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik3055&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=B9A3FF&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&cache_seconds=21600" />
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik3055&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=B9A3FF&text_color=E5E7EB&langs_count=8&cache_seconds=21600" />
+<img height="170" src="./profile/top-langs.svg" alt="Most Used Languages" />
 
 </div>
 
