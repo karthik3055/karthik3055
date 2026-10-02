@@ -8,15 +8,14 @@
 
 <br />
 
+<div align="center">
 <a href="https://github.com/karthik3055">
-<img src="https://img.shields.io/badge/GitHub-karthik3055-11101D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-karthik3055-488A00?style=for-the-badge&logo=github&logoColor=white" /></a>   &nbsp;
 <a href="https://www.linkedin.com/in/karthik5055">
-<img src="https://img.shields.io/badge/LinkedIn-karthik5055-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:Karthik.750c@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-karthik5055-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+<a href="mailto:Karthik.750@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D12600?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 <br /><br />
 
@@ -256,12 +255,9 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <br />
 
-<table>
-<tr>
-<td align="center" width="50%"><a href="https://github.com/karthik3055"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" width="350" /></a></td>
-<td align="center" width="50%"><a href="https://www.linkedin.com/in/karthik5055"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" width="350" /></a></td>
-</tr>
-</table>
+
+<a href="https://github.com/karthik3055"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" width="150" /></a>
+<a href="https://www.linkedin.com/in/karthik5055"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" /></a>
 
 </div>
 
