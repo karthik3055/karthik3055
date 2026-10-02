@@ -62,12 +62,35 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 ## 🧠 Technical Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | Java · Python · JavaScript |
-| **Frontend** | HTML · CSS · React · Node.js |
-| **Backend & Databases** | Spring · Hibernate · MySQL · MongoDB |
-| **Tools & Technologies** | Maven · Docker · Google Cloud · Git · GitHub |
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+
+### ☕ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb&theme=dark" />
+
+### 🛠️ Cloud, DevOps & Tooling
+
+<img src="https://skillicons.dev/icons?i=maven,docker,gcp,git,github&theme=dark" />
+
+</div>
+
+---
+
+## 🤖 AI / Generative AI
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Generative AI** | Practical | LLM concepts, AI applications, and prompt engineering |
+| **AI Development** | Learning | OpenAI API · Gemini API · AI-assisted application development |
+| **Java AI** | Learning | Spring AI and LLM integration with Spring Boot |
 
 ---
 
