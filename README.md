@@ -1,30 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,25:17102F,50:241047,75:35206B,100:5B3AA4&height=220&section=header&text=KARTHIKEYAN%20M&fontSize=48&fontColor=FFFFFF&fontAlig[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090712,35:1A1230,65:35206B,100:6D4AFF&height=230&section=header&text=KARTHIKEYAN%20M&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&fontFamily=Montserrat" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+in+Prog[...]
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=B9A3FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Cloud+Computing+%7C+Generative+AI;Building+Clean%2C+Practical+%26+Scalable+Applications" alt="Typing SVG" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/B.E.%20ECE-8.3%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/GRT%20Institute%20of%20Engineering%20%26%20Technology-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/2022--2026-312E81?style=for-the-badge&logo=calendar&logoColor=white" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tiruttani%2C%20Tamil%20Nadu-111827?style=for-the-badge&labelColor=312E81" />
-
-<br /><br />
-
+<a href="https://github.com/karthik3055">
+<img src="https://img.shields.io/badge/GitHub-karthik3055-11101D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/karthik5055">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-karthik5055-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:Karthik.750c@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/B.E.%20ECE-8.3%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Java%20Full%20Stack-Focused-5B21B6?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tamil%20Nadu-111827?style=for-the-badge&labelColor=312E81" />
 
 <br /><br />
 
@@ -36,77 +34,82 @@
 
 <div align="center">
 
-### `JAVA` &nbsp;•&nbsp; `FULL STACK` &nbsp;•&nbsp; `GENERATIVE AI`
+## `JAVA` · `SPRING BOOT` · `REACT` · `SQL` · `CLOUD`
+
+**Entry-Level Software Engineer | Java Full Stack Development**
 
 </div>
 
 ## 👋 About Me
 
-I am a **B.E. Electronics and Communication Engineering graduate** building my career toward **Java Full Stack Development**, with internship and project experience across Java, SQL, web development, and Generative AI.
+I am a **B.E. Electronics and Communication Engineering graduate** focused on building my career in **Java Full Stack Development**.
 
-I am currently strengthening my skills in **Java Full Stack Development**, with a focus on Java, Spring Boot, React, REST APIs, SQL, and Generative AI.
+I have hands-on internship and project exposure across **Java, SQL, web development, Google Cloud, and Generative AI**, and I am currently strengthening my skills in **Spring Boot, React, REST APIs, databases, and modern application development**.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+I enjoy turning requirements into clean, practical applications and continuously improving my understanding of software engineering.
 
-### 🎯 Current Direction
-
-- ☕ Java Full Stack Development
-- 🤖 Generative AI
-- 🗄️ SQL & Data Analysis
-
-</td>
-<td width="45%" valign="top">
-
-### 🧩 Engineering Mindset
-
-`text
-Learn → Build → Test → Automate → Observe
-                     ↓
-                Improve
-`
-
-**Focus:** clean implementation, practical learning, and reliable systems.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Technical Arsenal
+<br />
 
 <div align="center">
 
-### Languages
+| 🎓 Education | 💻 Focus | ☁️ Cloud | 🤖 AI |
+| :---: | :---: | :---: | :---: |
+| **B.E. ECE** | **Java Full Stack** | **Google Cloud** | **Generative AI** |
+| **8.3 / 10** | **Spring Boot + React** | **GKE Exposure** | **Cloud AI Training** |
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+</div>
 
-### Web & Frontend
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+## 🧠 Technical Stack
 
-### Java Full Stack
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
+### ☕ Java Ecosystem
 
-### Database & Tools
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
+
+<br />
+
+`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `JDBC` · `REST APIs` · `OOP` · `Collections` · `Exception Handling`
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br />
+
+`HTML5` · `CSS3` · `JavaScript` · `React`
+
+### 🗄️ Data & Cloud
 
 <img src="https://skillicons.dev/icons?i=mysql,gcp&theme=dark" />
+
+<br />
+
+`MySQL` · `SQL` · `Google Cloud` · `GKE`
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+<br />
+
+`Git` · `GitHub` · `Maven`
 
 </div>
 
 <br />
 
-| Domain | Technologies |
+| Area | Technologies |
 | :--- | :--- |
-| **Programming** | Java · Python · JavaScript |
+| **Languages** | Java · Python · JavaScript |
 | **Frontend** | HTML5 · CSS3 · React |
-| **Java Frameworks** | Spring Boot · Spring MVC · Spring Data JPA |
-| **Backend** | REST APIs · JDBC · Java OOP · Collections · Exception Handling |
+| **Backend** | Java · Spring Boot · Spring MVC · REST APIs |
+| **Persistence** | Spring Data JPA · JDBC |
 | **Database** | MySQL · SQL |
-| **Build & Tools** | Maven · Git · GitHub · Google Cloud |
+| **Cloud** | Google Cloud · GKE |
+| **Build / Version Control** | Maven · Git · GitHub |
 | **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
 ---
@@ -114,30 +117,30 @@ Learn → Build → Test → Automate → Observe
 ## 💼 Experience
 
 <details open>
-<summary><b>Java Intern — Navodita Infotech</b> · Dec 2025 – Jan 2026</summary>
+<summary><b>☕ Java Intern · Navodita Infotech</b> — Dec 2025 – Jan 2026</summary>
 
 <br />
 
 - Developed a **Java-based online quiz application** with separate Student and Admin login modules.
-- Added **authentication, quiz management, and instant result generation**.
+- Implemented **authentication, quiz management, and instant result generation**.
 - Debugged the application and performed **basic unit testing**.
 
-**Exposure:** `Java` · `OOP` · `Authentication` · `Application Development` · `Testing`
+**Focus:** `Java` · `OOP` · `Authentication` · `Application Development` · `Testing`
 
 </details>
 
 <br />
 
 <details>
-<summary><b>Generative AI Training — NASSCOM FutureSkills Prime</b> · Jul 2025 – Sep 2025</summary>
+<summary><b>☁️ Google Cloud Generative AI Intern · NASSCOM FutureSkills Prime</b> — Jul 2025 – Sep 2025</summary>
 
 <br />
 
-- Completed practical training in **Generative AI and related technologies**.
-- Explored **AI tools and frameworks** and their practical applications.
-- Worked through **real-world AI use cases** as part of the training program.
+- Completed practical training in **cloud computing and Generative AI**.
+- Explored **Google Cloud tools** and basic cloud deployment workflows.
+- Worked through **cloud and AI use cases** as part of the training.
 
-**Exposure:** `Generative AI` · `AI Tools` · `Machine Learning Concepts` · `Practical AI Applications`
+**Focus:** `Google Cloud` · `Generative AI` · `Cloud Computing` · `Deployment`
 
 </details>
 
@@ -145,12 +148,35 @@ Learn → Build → Test → Automate → Observe
 
 ## 🚀 Featured Projects
 
+### 01 · High-Availability Three-Tier Architecture
+
 <details open>
-<summary><b>01 · Job Matching Portal</b></summary>
+<summary><b>Google Cloud Deployment Project</b></summary>
 
 <br />
 
-**Stack:** `Java`
+**Technology:** `Google Cloud`
+
+Built a three-tier web application with a focus on structured application deployment and availability.
+
+**Highlights**
+
+- Worked with a **three-tier application architecture**.
+- Explored cloud deployment concepts using **Google Cloud**.
+- Focused on separating application layers for **maintainability and scalability**.
+
+</details>
+
+<br />
+
+### 02 · Job Matching Portal
+
+<details>
+<summary><b>Java Application · Skill-Based Matching</b></summary>
+
+<br />
+
+**Technology:** `Java`
 
 Developed a skill-based portal matching candidates with relevant job opportunities.
 
@@ -162,12 +188,14 @@ Developed a skill-based portal matching candidates with relevant job opportuniti
 
 <br />
 
+### 03 · Sales Forecasting & Time Series Analysis
+
 <details>
-<summary><b>02 · Sales Forecasting & Time Series Analysis</b></summary>
+<summary><b>SQL Analytics · Monthly Sales Forecasting</b></summary>
 
 <br />
 
-**Stack:** `MySQL` `SQL` `Time Series Analysis`
+**Technology:** `MySQL` · `SQL`
 
 Analyzed monthly sales data and created a basic next-month sales forecasting workflow.
 
@@ -197,32 +225,15 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="75%" valign="top">
+<div align="center">
 
 ### B.E. — Electronics and Communication Engineering
 
 **GRT Institute of Engineering and Technology**
 
-2022 – 2026
+`2022 – 2026` · **CGPA: 8.3 / 10**
 
-</td>
-<td width="25%" align="center">
-
-### `8.3 / 10`
-
-**CGPA**
-
-</td>
-</tr>
-</table>
-
-| Qualification | Institution | Result |
-| :--- | :--- | :---: |
-| **B.E. – ECE** | GRT Institute of Engineering and Technology | **8.3 / 10** |
-
-
+</div>
 
 ---
 
@@ -230,9 +241,9 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik3055&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_colo[...]
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik3055&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=B9A3FF&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik3055&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik3055&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=B9A3FF&text_color=E5E7EB&langs_count=8" />
 
 </div>
 
@@ -240,7 +251,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik3055&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreak[...]
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik3055&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=B9A3FF&currStreakLabel=B9A3FF&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="720" />
 
 </div>
 
@@ -250,7 +261,7 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik3055&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik3055&bg_color=0D0B1A&color=B9A3FF&line=7C3AED&point=D8CCFF&area=true&hide_border=true" width="96%" />
 
 </div>
 
@@ -267,25 +278,11 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 ---
 
-## 📬 Connect
+## 🎯 Current Focus
 
 <div align="center">
 
-<a href="https://github.com/karthik3055">
-  <img src="https://img.shields.io/badge/GitHub-karthik3055-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/karthik5055">
-  <img src="https://img.shields.io/badge/LinkedIn-karthik5055-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:Karthik.750c@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Karthik.750c%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br /><br />
-
-**Open to entry-level opportunities in Java, full-stack development, and software engineering.**
+`Java Full Stack` · `Spring Boot` · `React` · `REST APIs` · `SQL` · `Google Cloud` · `Generative AI`
 
 </div>
 
@@ -293,8 +290,26 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3AA4,25:35206B,50:241047,75:17102F,100:0D0B1A&height=130&section=footer&animation=twinkling" width="100%" />
+**Open to entry-level opportunities in Java, full-stack development, software engineering, and cloud-focused roles.**
 
-<sub>Built with Java • Full Stack • Continuous Learning</sub>
+<br />
+
+<a href="https://github.com/karthik3055">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/karthik5055">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D4AFF,35:35206B,65:1A1230,100:090712&height=130&section=footer&animation=fadeIn" width="100%" />
+
+<sub>Java • Spring Boot • React • SQL • Cloud • Continuous Learning</sub>
 
 </div>
