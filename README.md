@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090712,35:1A1230,65:35206B,100:6D4AFF&height=230&section=header&text=KARTHIKEYAN%20M&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&fontFamily=Montserrat" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=B9A3FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Cloud+Computing+%7C+Generative+AI;Building+Clean%2C+Practical+%26+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=B9A3FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+React+%7C+SQL;Full+Stack+Development+%7C+Generative+AI;Building+Clean%2C+Practical+%26+Scalable+Applications" alt="Typing SVG" />
 </a>
 
 <br />
@@ -20,7 +20,7 @@
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/B.E.%20ECE-8.3%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/B.E.%20ECE-8.3%2F10-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tamil%20Nadu-111827?style=for-the-badge&labelColor=312E81" />
 
 <br /><br />
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## `JAVA` · `SPRING BOOT` · `REACT` · `SQL` · `CLOUD`
+## `JAVA` · `SPRING BOOT` · `REACT` · `SQL` · `GENERATIVE AI`
 
 **Entry-Level Software Engineer | Java Full Stack Development**
 
@@ -43,7 +43,7 @@
 
 I am a **B.E. Electronics and Communication Engineering graduate** focused on building my career in **Java Full Stack Development**.
 
-I have hands-on internship and project exposure across **Java, SQL, web development, Google Cloud, and Generative AI**, and I am currently strengthening my skills in **Spring Boot, React, REST APIs, databases, and modern application development**.
+I have hands-on internship and project exposure across **Java, SQL, web development, and Generative AI**, and I am currently strengthening my skills in **Spring Boot, React, REST APIs, databases, and modern application development**.
 
 I enjoy turning requirements into clean, practical applications and continuously improving my understanding of software engineering.
 
@@ -51,10 +51,10 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 <div align="center">
 
-| 🎓 Education | 💻 Focus | ☁️ Cloud | 🤖 AI |
-| :---: | :---: | :---: | :---: |
-| **B.E. ECE** | **Java Full Stack** | **Google Cloud** | **Generative AI** |
-| **8.3 / 10** | **Spring Boot + React** | **GKE Exposure** | **Cloud AI Training** |
+| Education | Primary Stack | Development Focus | Additional Strength |
+| :--- | :--- | :--- | :--- |
+| **B.E. ECE · 8.3 / 10** | **Java · Spring Boot · React** | **REST APIs · SQL · Full Stack** | **Generative AI · Problem Solving** |
+| 2022 – 2026 | Backend + Frontend | Application Development | Continuous Learning |
 
 </div>
 
@@ -130,15 +130,15 @@ I enjoy turning requirements into clean, practical applications and continuously
 <br />
 
 <details>
-<summary><b>☁️ Google Cloud Generative AI Intern · NASSCOM FutureSkills Prime</b> — Jul 2025 – Sep 2025</summary>
+<summary><b>🤖 Generative AI Intern · NASSCOM FutureSkills Prime</b> — Jul 2025 – Sep 2025</summary>
 
 <br />
 
-- Completed practical training in **cloud computing and Generative AI**.
-- Explored **Google Cloud tools** and basic cloud deployment workflows.
-- Worked through **cloud and AI use cases** as part of the training.
+- Completed practical training in **Generative AI**.
+- Explored practical AI concepts and application use cases.
+- Worked through **AI-focused training exercises** as part of the program.
 
-**Focus:** `Google Cloud` · `Generative AI` · `Cloud Computing` · `Deployment`
+**Focus:** `Generative AI` · `AI Applications` · `Practical Training`
 
 </details>
 
@@ -147,7 +147,7 @@ I enjoy turning requirements into clean, practical applications and continuously
 ## 🚀 Featured Projects
 
 
-### 02 · Job Matching Portal
+### 01 · Job Matching Portal
 
 <details>
 <summary><b>Java Application · Skill-Based Matching</b></summary>
@@ -166,7 +166,7 @@ Developed a skill-based portal matching candidates with relevant job opportuniti
 
 <br />
 
-### 03 · Sales Forecasting & Time Series Analysis
+### 02 · Sales Forecasting & Time Series Analysis
 
 <details>
 <summary><b>SQL Analytics · Monthly Sales Forecasting</b></summary>
