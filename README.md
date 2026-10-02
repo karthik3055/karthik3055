@@ -68,57 +68,44 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
 
-<br />
+<br /><br />
 
-`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `JDBC` · `REST APIs` · `OOP` · `Collections` · `Exception Handling`
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" />
+
+<br /><br />
 
 ### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-<br />
-
-`HTML5` · `CSS3` · `JavaScript` · `React`
+<br /><br />
 
 ### 🐍 Programming
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-<br />
-
-`Python`
+<br /><br />
 
 ### 🗄️ Data
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-<br />
-
-`MySQL` · `PostgreSQL` · `SQL`
+<br /><br />
 
 ### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
-<br />
-
-`Git` · `GitHub` · `Maven`
+<img src="https://skillicons.dev/icons?i=git,github,maven&theme=dark" />
 
 </div>
 
 <br />
 
-| Area | Technologies |
+| Area | Skills |
 | :--- | :--- |
-| **Languages** | Java · Python · JavaScript |
-| **Frontend** | HTML5 · CSS3 · React |
-| **Backend** | Spring Boot · Spring MVC · REST APIs |
-| **Persistence** | Spring Data JPA · JDBC |
-| **Database** | MySQL · PostgreSQL · SQL |
+| **Backend** | REST APIs · JDBC · Spring Data JPA |
 | **Core Java** | OOP · Collections · Exception Handling |
 | **AI** | Generative AI |
-| **Build / Version Control** | Maven · Git · GitHub |
-| **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
+| **Soft Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
 ---
 
