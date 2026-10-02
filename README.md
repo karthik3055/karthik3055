@@ -44,7 +44,7 @@
 
 I am a **B.E. Electronics and Communication Engineering graduate** building my career toward **Java Full Stack Development**, with internship and project experience across Java, SQL, web development, cloud computing, and Generative AI.
 
-I am currently strengthening my skills in **Java Full Stack Development**, with a focus on Java, Spring Boot, React, SQL, cloud computing, and Generative AI.
+I am currently strengthening my skills in **Java Full Stack Development**, with a focus on Java, Spring Boot, React, REST APIs, SQL, cloud computing, and Generative AI.
 
 <table>
 <tr>
@@ -84,9 +84,13 @@ Learn → Build → Test → Automate → Observe
 
 <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
 
-### Web & Frameworks
+### Web & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+### Java Full Stack
+
+<img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
 
 ### Database & Cloud
 
@@ -99,11 +103,12 @@ Learn → Build → Test → Automate → Observe
 | Domain | Technologies |
 | :--- | :--- |
 | **Programming** | Java · Python · JavaScript |
-| **Web** | HTML5 · CSS3 · React |
-| **Frameworks** | Spring Boot |
+| **Frontend** | HTML5 · CSS3 · React |
+| **Java Frameworks** | Spring Boot · Spring MVC · Spring Data JPA |
+| **Backend** | REST APIs · JDBC · Java OOP · Collections · Exception Handling |
 | **Database** | MySQL · SQL |
+| **Build & Tools** | Maven · Git · GitHub |
 | **Cloud** | Google Cloud |
-| **Tools** | Git · GitHub |
 | **Core Skills** | Problem Solving · Communication · Teamwork · Adaptability · Quick Learning |
 
 ---
@@ -119,7 +124,7 @@ Learn → Build → Test → Automate → Observe
 - Added **authentication, quiz management, and instant result generation**.
 - Debugged the application and performed **basic unit testing**.
 
-**Exposure:** `Java` · `Authentication` · `Application Development` · `Testing`
+**Exposure:** `Java` · `OOP` · `Authentication` · `Application Development` · `Testing`
 
 </details>
 
