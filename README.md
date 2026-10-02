@@ -82,15 +82,17 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 </div>
 
----
+<br />
 
-## 🤖 AI / Generative AI
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Generative AI** | Practical | LLM concepts, AI applications, and prompt engineering |
-| **AI Development** | Learning | OpenAI API · Gemini API · AI-assisted application development |
-| **Java AI** | Learning | Spring AI and LLM integration with Spring Boot |
+| Java Full Stack Area | Skills |
+| :--- | :--- |
+| **Programming** | Java · Python · JavaScript · OOP · Collections · Exception Handling |
+| **Frontend** | HTML5 · CSS3 · JavaScript · React · Node.js |
+| **Backend** | Spring Boot · Spring MVC · Spring Data JPA · Hibernate · JDBC · REST APIs |
+| **Databases** | MySQL · MongoDB · SQL · Database Design |
+| **Development** | Maven · Git · GitHub · Debugging · Unit Testing |
+| **Cloud & DevOps** | Google Cloud · Docker |
+| **AI & Modern Development** | Generative AI · Prompt Engineering · AI-assisted Development |
 
 ---
 
