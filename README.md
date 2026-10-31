@@ -112,23 +112,8 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 <br />
 
-<details open>
-<summary><b>☕ Java Intern · Navodita Infotech</b> — Dec 2025 – Jan 2026</summary>
-
-<br />
-
-- Developed a **Java-based online quiz application** with separate Student and Admin login modules.
-- Implemented **authentication, quiz management, and instant result generation**.
-- Debugged the application and performed **basic unit testing**.
-
-**Focus:** `Java` · `OOP` · `Authentication` · `Application Development` · `Testing`
-
-</details>
-
-<br />
-
 <details>
-<summary><b>💻 Java Full Stack Intern · Infosys Springboard Internship 7.0</b> — August 2025 – October 2025 | Virtual</summary>
+<summary><b>💻 Java Full Stack Intern · Infosys Springboard Internship 7.0</b> — August 2026 – October 2026 | Virtual</summary>
 
 <br />
 
@@ -160,7 +145,7 @@ I enjoy turning requirements into clean, practical applications and continuously
 ## 🚀 Featured Projects
 
 
-### 01 · Job Matching Portal
+### Job Matching Portal
 
 <details>
 <summary><b>Java Application · Skill-Based Matching</b></summary>
@@ -178,28 +163,6 @@ Developed a skill-based portal matching candidates with relevant job opportuniti
 </details>
 
 <br />
-
-### 02 · Sales Forecasting & Time Series Analysis
-
-<details>
-<summary><b>SQL Analytics · Monthly Sales Forecasting</b></summary>
-
-<br />
-
-**Technology:** `MySQL` · `SQL`
-
-Analyzed monthly sales data and created a basic next-month sales forecasting workflow.
-
-- Used **JOINs, aggregates, subqueries, and window functions**.
-- Applied **moving averages** to monthly sales data.
-- Calculated **month-over-month growth**.
-- Created a basic **next-month sales forecast**.
-
-</details>
-
-<br />
-
-### Additional Projects
 
 ### SentinelCore – Cloud Security Monitoring System
 
