@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GitHub-488A00?style=for-the-badge&logo=github&logoColor=white" /></a>   &nbsp;
 <a href="https://www.linkedin.com/in/karthik3055">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-<a href="mailto:Karthik.750@gmail.com">
+<a href="mailto:Karthik.750c@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D12600?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
