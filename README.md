@@ -34,7 +34,7 @@
 
 ## `JAVA` · `SPRING BOOT` · `REACT` · `SQL` · `GENERATIVE AI`
 
-**Entry-Level Software Engineer | Java Full Stack Development**
+**Java Full Stack Developer**
 
 </div>
 
@@ -42,9 +42,7 @@
 
 I am a **B.E. Electronics and Communication Engineering graduate** focused on building my career in **Java Full Stack Development**.
 
-I have hands-on internship and project exposure across **Java, SQL, web development, and Generative AI**, and I am currently strengthening my skills in **Spring Boot, React, REST APIs, databases, and modern application development**.
-
-I enjoy turning requirements into clean, practical applications and continuously improving my understanding of software engineering.
+I have hands-on internship, professional, and project experience across **Java, Spring Boot, React, SQL, web development, and Generative AI**. I enjoy turning requirements into clean, practical applications and continuously improving my understanding of software engineering.
 
 <br />
 
@@ -86,9 +84,9 @@ I enjoy turning requirements into clean, practical applications and continuously
 | Java Full Stack Area | Skills |
 | :--- | :--- |
 | **Programming** | Java · Python · JavaScript · OOP · Collections · Exception Handling |
-| **Frontend** | HTML5 · CSS3 · Bootstrap . JavaScript . React  |
+| **Frontend** | HTML5 · CSS3 · Bootstrap · JavaScript · React |
 | **Backend** | Spring Boot · Spring MVC · Spring Data JPA · Hibernate · JDBC · REST APIs |
-| **Databases** | MySQL · MongoDB · SQL · Database Design |
+| **Databases** | MySQL · PostgreSQL · MongoDB · SQL · Database Design |
 | **Development** | Maven · Git · GitHub · Debugging · Unit Testing |
 | **Cloud & DevOps** | Google Cloud · Docker |
 | **AI & Modern Development** | Generative AI · Prompt Engineering · AI-assisted Development |
@@ -96,6 +94,21 @@ I enjoy turning requirements into clean, practical applications and continuously
 ---
 
 ## 💼 Experience
+
+<details open>
+<summary><b>☕ Java Full Stack Developer · BDreamz Global Solutions Pvt. Ltd.</b> — May 2026 – Present</summary>
+
+<br />
+
+- Develop and maintain web applications using **Java, Spring Boot, and React.js**.
+- Build **REST APIs** and implement CRUD operations using MySQL, JDBC, JPA, and Hibernate.
+- Perform frontend integration, debugging, API testing, and deployment activities.
+
+**Focus:** `Java` · `Spring Boot` · `React.js` · `REST APIs` · `MySQL` · `JPA` · `Hibernate`
+
+</details>
+
+<br />
 
 <details open>
 <summary><b>☕ Java Intern · Navodita Infotech</b> — Dec 2025 – Jan 2026</summary>
@@ -125,12 +138,64 @@ I enjoy turning requirements into clean, practical applications and continuously
 
 </details>
 
+<br />
+
+<details>
+<summary><b>💻 Java Full Stack Intern · Infosys Springboard Internship 7.0</b> — August 2025 – October 2025 | Virtual</summary>
+
+<br />
+
+- Worked on a **Cloud Security Monitoring System with Incident Management Assistance**.
+- Applied Java full-stack development concepts to develop application features.
+- Contributed to asset monitoring, incident management, and security operations functionality.
+
+**Focus:** `Java` · `Full Stack Development` · `Cloud Security Monitoring` · `Incident Management`
+
+</details>
+
 ---
 
 ## 🚀 Featured Projects
 
+### 01 · SentinelCore – Cloud Security Monitoring System
 
-### 01 · Job Matching Portal
+<details open>
+<summary><b>Full-Stack Security Operations Platform</b></summary>
+
+<br />
+
+**Technology:** `Java 17` · `Spring Boot` · `Spring Security` · `React` · `PostgreSQL`
+
+Developed a full-stack platform for security operations, covering asset, incident, and vulnerability monitoring.
+
+- Implemented **role-based access control** and REST APIs using Spring Boot and Spring Security.
+- Integrated **audit logging, PDF report generation, and SMTP email notifications** for security events.
+
+**Repository:** [SentinelCore-SecurityOps](https://github.com/karthik3055/SentinelCore-SecurityOps)
+
+</details>
+
+<br />
+
+### 02 · Employee Management System
+
+<details open>
+<summary><b>Java Web Application · Employee Record Management</b></summary>
+
+<br />
+
+**Technology:** `Core Java` · `JSP` · `JDBC` · `MySQL` · `HTML` · `CSS`
+
+Developed a Java-based web application to manage employee records and information.
+
+- Created dynamic web pages using **JSP** and connected the application to MySQL using **JDBC**.
+- Implemented **CRUD operations** to create, retrieve, update, and delete employee records.
+
+</details>
+
+<br />
+
+### 03 · Job Matching Portal
 
 <details>
 <summary><b>Java Application · Skill-Based Matching</b></summary>
@@ -149,7 +214,7 @@ Developed a skill-based portal matching candidates with relevant job opportuniti
 
 <br />
 
-### 02 · Sales Forecasting & Time Series Analysis
+### 04 · Sales Forecasting & Time Series Analysis
 
 <details>
 <summary><b>SQL Analytics · Monthly Sales Forecasting</b></summary>
@@ -251,10 +316,9 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-**Open to entry-level opportunities in Java, full-stack development, and software engineering roles.**
+**Open to opportunities in Java Development, Full-Stack Development, Backend Development, and Software Engineering.**
 
 <br />
-
 
 <a href="https://github.com/karthik3055"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" width="200" /></a>
 <a href="https://www.linkedin.com/in/karthik5055"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" /></a>
