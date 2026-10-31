@@ -34,7 +34,7 @@
 
 ## `JAVA` · `SPRING BOOT` · `REACT` · `SQL` · `GENERATIVE AI`
 
-**Java Full Stack Developer**
+**Entry-Level Software Engineer | Java Full Stack Development**
 
 </div>
 
@@ -42,7 +42,9 @@
 
 I am a **B.E. Electronics and Communication Engineering graduate** focused on building my career in **Java Full Stack Development**.
 
-I have hands-on internship, professional, and project experience across **Java, Spring Boot, React, SQL, web development, and Generative AI**. I enjoy turning requirements into clean, practical applications and continuously improving my understanding of software engineering.
+I have hands-on internship and project exposure across **Java, SQL, web development, and Generative AI**, and I am currently strengthening my skills in **Spring Boot, React, REST APIs, databases, and modern application development**.
+
+I enjoy turning requirements into clean, practical applications and continuously improving my understanding of software engineering.
 
 <br />
 
@@ -84,9 +86,9 @@ I have hands-on internship, professional, and project experience across **Java, 
 | Java Full Stack Area | Skills |
 | :--- | :--- |
 | **Programming** | Java · Python · JavaScript · OOP · Collections · Exception Handling |
-| **Frontend** | HTML5 · CSS3 · Bootstrap · JavaScript · React |
+| **Frontend** | HTML5 · CSS3 · Bootstrap . JavaScript . React  |
 | **Backend** | Spring Boot · Spring MVC · Spring Data JPA · Hibernate · JDBC · REST APIs |
-| **Databases** | MySQL · PostgreSQL · MongoDB · SQL · Database Design |
+| **Databases** | MySQL · MongoDB · SQL · Database Design |
 | **Development** | Maven · Git · GitHub · Debugging · Unit Testing |
 | **Cloud & DevOps** | Google Cloud · Docker |
 | **AI & Modern Development** | Generative AI · Prompt Engineering · AI-assisted Development |
@@ -96,7 +98,7 @@ I have hands-on internship, professional, and project experience across **Java, 
 ## 💼 Experience
 
 <details open>
-<summary><b>☕ Java Full Stack Developer · BDreamz Global Solutions Pvt. Ltd.</b> — May 2026 – Present</summary>
+<summary><b>💻 Java Full Stack Developer · BDreamz Global Solutions Pvt. Ltd.</b> — May 2026 – Present | Full-time</summary>
 
 <br />
 
@@ -104,7 +106,7 @@ I have hands-on internship, professional, and project experience across **Java, 
 - Build **REST APIs** and implement CRUD operations using MySQL, JDBC, JPA, and Hibernate.
 - Perform frontend integration, debugging, API testing, and deployment activities.
 
-**Focus:** `Java` · `Spring Boot` · `React.js` · `REST APIs` · `MySQL` · `JPA` · `Hibernate`
+**Focus:** `Java` · `Spring Boot` · `React.js` · `REST APIs` · `MySQL` · `JDBC` · `JPA` · `Hibernate`
 
 </details>
 
@@ -126,21 +128,6 @@ I have hands-on internship, professional, and project experience across **Java, 
 <br />
 
 <details>
-<summary><b>🤖 Generative AI Intern · NASSCOM FutureSkills Prime</b> — Jul 2025 – Sep 2025</summary>
-
-<br />
-
-- Completed practical training in **Generative AI**.
-- Explored practical AI concepts and application use cases.
-- Worked through **AI-focused training exercises** as part of the program.
-
-**Focus:** `Generative AI` · `AI Applications` · `Practical Training`
-
-</details>
-
-<br />
-
-<details>
 <summary><b>💻 Java Full Stack Intern · Infosys Springboard Internship 7.0</b> — August 2025 – October 2025 | Virtual</summary>
 
 <br />
@@ -153,49 +140,27 @@ I have hands-on internship, professional, and project experience across **Java, 
 
 </details>
 
+<br />
+
+<details>
+<summary><b>🤖 Generative AI Intern · NASSCOM FutureSkills Prime</b> — Jul 2025 – Sep 2025</summary>
+
+<br />
+
+- Completed practical training in **Generative AI**.
+- Explored practical AI concepts and application use cases.
+- Worked through **AI-focused training exercises** as part of the program.
+
+**Focus:** `Generative AI` · `AI Applications` · `Practical Training`
+
+</details>
+
 ---
 
 ## 🚀 Featured Projects
 
-### 01 · SentinelCore – Cloud Security Monitoring System
 
-<details open>
-<summary><b>Full-Stack Security Operations Platform</b></summary>
-
-<br />
-
-**Technology:** `Java 17` · `Spring Boot` · `Spring Security` · `React` · `PostgreSQL`
-
-Developed a full-stack platform for security operations, covering asset, incident, and vulnerability monitoring.
-
-- Implemented **role-based access control** and REST APIs using Spring Boot and Spring Security.
-- Integrated **audit logging, PDF report generation, and SMTP email notifications** for security events.
-
-**Repository:** [SentinelCore-SecurityOps](https://github.com/karthik3055/SentinelCore-SecurityOps)
-
-</details>
-
-<br />
-
-### 02 · Employee Management System
-
-<details open>
-<summary><b>Java Web Application · Employee Record Management</b></summary>
-
-<br />
-
-**Technology:** `Core Java` · `JSP` · `JDBC` · `MySQL` · `HTML` · `CSS`
-
-Developed a Java-based web application to manage employee records and information.
-
-- Created dynamic web pages using **JSP** and connected the application to MySQL using **JDBC**.
-- Implemented **CRUD operations** to create, retrieve, update, and delete employee records.
-
-</details>
-
-<br />
-
-### 03 · Job Matching Portal
+### 01 · Job Matching Portal
 
 <details>
 <summary><b>Java Application · Skill-Based Matching</b></summary>
@@ -214,7 +179,7 @@ Developed a skill-based portal matching candidates with relevant job opportuniti
 
 <br />
 
-### 04 · Sales Forecasting & Time Series Analysis
+### 02 · Sales Forecasting & Time Series Analysis
 
 <details>
 <summary><b>SQL Analytics · Monthly Sales Forecasting</b></summary>
@@ -229,6 +194,46 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 - Applied **moving averages** to monthly sales data.
 - Calculated **month-over-month growth**.
 - Created a basic **next-month sales forecast**.
+
+</details>
+
+<br />
+
+### Additional Projects
+
+### SentinelCore – Cloud Security Monitoring System
+
+<details>
+<summary><b>Full-Stack Security Operations Platform</b></summary>
+
+<br />
+
+**Technology:** `Java 17` · `Spring Boot` · `Spring Security` · `React` · `PostgreSQL`
+
+Developed a full-stack platform for asset, incident, and vulnerability monitoring.
+
+- Implemented **role-based access control** and REST APIs using Spring Boot and Spring Security.
+- Integrated **audit logging, PDF report generation, and SMTP email notifications** for security events.
+
+**Repository:** [SentinelCore-SecurityOps](https://github.com/karthik3055/SentinelCore-SecurityOps)
+
+</details>
+
+<br />
+
+### Employee Management System
+
+<details>
+<summary><b>Java Web Application · Employee Record Management</b></summary>
+
+<br />
+
+**Technology:** `Core Java` · `JSP` · `JDBC` · `MySQL` · `HTML` · `CSS`
+
+Developed a Java-based web application to manage employee records and information.
+
+- Created dynamic web pages using **JSP** and connected the application to MySQL using **JDBC**.
+- Implemented **CRUD operations** to create, retrieve, update, and delete employee records.
 
 </details>
 
@@ -316,9 +321,10 @@ Analyzed monthly sales data and created a basic next-month sales forecasting wor
 
 <div align="center">
 
-**Open to opportunities in Java Development, Full-Stack Development, Backend Development, and Software Engineering.**
+**Open to entry-level opportunities in Java, full-stack development, and software engineering roles.**
 
 <br />
+
 
 <a href="https://github.com/karthik3055"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" width="200" /></a>
 <a href="https://www.linkedin.com/in/karthik5055"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" /></a>
